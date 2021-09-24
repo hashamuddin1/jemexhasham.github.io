@@ -1,0 +1,51 @@
+
+    
+
+.navigation{
+    background-color: black;
+}
+.navigation a{
+    color:white;
+    text-decoration: none;
+    margin-left: 5%;
+}
+.des1{
+    background-color: black;
+    
+}
+.des1 h3{
+    color: white;
+    float: right;
+    width: 60%;
+}
+#typedemo{
+    color: white;
+    float: right;
+    width: 40%;
+    box-sizing: border-box;
+}
+.ab{
+    width: 70%;
+    margin: 10% auto;
+    border: 15px solid green;
+    padding: 5%;
+    box-shadow: 10px 10px 5px green;
+    border-radius: 25px;
+}
+
+.sale1 img{
+    float: left;
+    width: 60%;
+}
+#about1{
+    width: 70%;
+    color:darkgreen;
+    border: 3px solid darkgreen;
+    outline: 3px solid darkgreen;
+    outline-offset: 5px;
+    margin: 5% auto;
+    border-radius: 10%;
+}
+.about3 h2{
+    color: teal;
+}
